@@ -1,1 +1,1 @@
-# shop
+my online shop (django)
